@@ -21,20 +21,24 @@
   * Brute Force Algorithm
   * Binary Search Algorithm
   * Permutation
+  * Combination
   * Breadth First Algorithm
   * Depth First Algorithm
 
 ***
 * ### Web
-  * How Website works?
+  * How Website works
   * TDP/IP
   * PORT
   * HTTP
+  * 
 ***
 * ### DB
-  * [Installation of MySql]()
-  * [How to create a table]()
-  * 
+  * [What is SQL]() 
+  * [Installation of MySql](https://github.com/haruday97/TIL/blob/main/DB/Installation%of%MySql.md)
+  * [Queries]()
+  * [ACID]()
+  * [SQL vs NoSQL]()
 ***
 * ### Spring
 ***
