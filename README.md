@@ -12,7 +12,7 @@
   
 ***
 * ### Algorithm
-  * [Time Complexity](/Algorithm/Time Complexity.md) 
+  * [Time Complexity](https://github.com/haruday97/TIL/blob/main/Algorithm/Time%20Complexity.md) 
   * Greedy Algorithm
   * Brute Force Algorithm
   * Binary Search Algorithm
