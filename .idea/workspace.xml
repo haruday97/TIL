@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/03/21">
-      <change afterPath="$PROJECT_DIR$/DB/SQL/Installation of MySql.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DB/SQL/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/03/28">
+      <change afterPath="$PROJECT_DIR$/Algorithm/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Time Complexity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Time Complexity.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680003692216</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="23/03/28">
+      <created>1680004728088</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680004728088</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +199,7 @@
     <MESSAGE value="init3" />
     <MESSAGE value="init4" />
     <MESSAGE value="23/03/21" />
-    <option name="LAST_COMMIT_MESSAGE" value="23/03/21" />
+    <MESSAGE value="23/03/28" />
+    <option name="LAST_COMMIT_MESSAGE" value="23/03/28" />
   </component>
 </project>
