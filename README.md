@@ -1,4 +1,5 @@
 # TIL 
+
 * ### Java
   * Installation of JDK
 
@@ -16,7 +17,7 @@
   
 ***
 * ### Algorithm
-  * [Time Complexity](https://github.com/haruday97/TIL/blob/main/Algorithm/Time%20Complexity.md) 
+  * Time Complexity
   * Greedy Algorithm
   * Brute Force Algorithm
   * Binary Search Algorithm
@@ -31,15 +32,24 @@
   * TDP/IP
   * PORT
   * HTTP
-  * 
 ***
 * ### DB
   * [What is SQL](https://github.com/haruday97/TIL/blob/main/DB/What%20is%20SQL.md) 
-  * [Installation of MySql](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
+  * [Installation of MySQL](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
   * [Queries](https://github.com/haruday97/TIL/blob/main/DB/Queries.md)
 ***
 * ### Spring
 ***
 * ### Practicing
 ***
+* ### Book Report
+*** 
+  * Clean Code
+  * Code Complete 2
+  * 한 권으로 읽는 컴퓨터 구조와 프로그래밍
+  * 커리어 스킬
+* ### Errors
+*** 
+mn                      
+
 [Tistory](https://harubang.tistory.com/)
