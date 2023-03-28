@@ -1,4 +1,8 @@
 # TIL 
+* ### Java
+  * Installation of JDK
+
+***
 
 * ### Data Structure
   * Stack
@@ -21,17 +25,19 @@
   * Depth First Algorithm
 
 ***
-* ### DB
-  * SQLite
-  * Mysql
-***
 * ### Web
   * How Website works?
+  * TDP/IP
+  * PORT
+  * HTTP
 ***
-* ### SQL
-  * BASIC
+* ### DB
+  * [Installation of MySql]()
+  * [How to create a table]()
+  * 
 ***
 * ### Spring
 ***
-
+* ### Practicing
+***
 [Tistory](https://harubang.tistory.com/)
