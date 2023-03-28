@@ -2,6 +2,22 @@
 
 * ### Java
   * Installation of JDK
+  * Basic
+  * String
+  * Operator
+  * Class and Object
+  * Method and Constructor
+  * Array
+  * Control Statement
+  * OOP
+  * Package
+  * Access Modifier
+  * Generics
+  * Collection Framework
+  * Exception
+  * Lambda
+  * Stream
+  * Thread
 
 ***
 
