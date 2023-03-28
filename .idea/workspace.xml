@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/03/28">
-      <change beforePath="$PROJECT_DIR$/DB/What is SQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/DB/What is SQL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB/Queries.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Time Complexity.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Time Complexity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/Installation of MySQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/DB/Installation of MySQL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680008701270</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="23/03/28">
+      <created>1680008810335</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680008810335</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

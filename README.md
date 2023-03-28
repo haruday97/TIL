@@ -34,11 +34,9 @@
   * 
 ***
 * ### DB
-  * [What is SQL]() 
+  * [What is SQL](https://github.com/haruday97/TIL/blob/main/DB/What%20is%20SQL.md) 
   * [Installation of MySql](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
-  * [Queries]()
-  * [ACID]()
-  * [SQL vs NoSQL]()
+  * [Queries](https://github.com/haruday97/TIL/blob/main/DB/Queries.md)
 ***
 * ### Spring
 ***
