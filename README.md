@@ -84,6 +84,8 @@
 * Clean Code
 * Code Complete 2
 * 한 권으로 읽는 컴퓨터 구조와 프로그래밍
-* 커리어 스킬
-## **Hit me up! 👇**
-[![Blog](https://img.shields.io/badge/Blog-harubang.tistory.com-blue?style=for-the-badge&logo=Tistory&logoColor=white)](https://harubang.tistory.com/)<a href="mailto:hitenshi1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hitenshi1997@gmail.com" alt="Gmail" width="90" height="28"></a>
+* 커리어 스킬  
+***
+## Hit me up!  👇
+[![Blog](https://img.shields.io/badge/Blog-harubang.tistory.com-blue?style=for-the-badge&logo=Tistory&logoColor=white)](https://harubang.tistory.com/)<a href="mailto:hitenshi1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hitenshi1997@gmail.com" alt="Gmail" width="90" height="28"></a>  
+<br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharuday97%2FTIL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
