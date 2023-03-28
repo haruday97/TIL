@@ -35,7 +35,7 @@
 ***
 * ### DB
   * [What is SQL]() 
-  * [Installation of MySql](https://github.com/haruday97/TIL/blob/main/DB/Installation%of%MySql.md)
+  * [Installation of MySql](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
   * [Queries]()
   * [ACID]()
   * [SQL vs NoSQL]()
