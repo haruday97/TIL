@@ -59,7 +59,7 @@
   * [What is SQL](https://github.com/haruday97/TIL/blob/main/DB/What%20is%20SQL.md) 
   * [Installation of MySQL](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
   * [Queries](https://github.com/haruday97/TIL/blob/main/DB/Queries.md)
-  * [Schema](https://github.com/haruday97/TIL/blob/main/DB/Database%20Design.md)
+  * [Database Design](https://github.com/haruday97/TIL/blob/main/DB/Database%20Design.md)
   * [Join](https://github.com/haruday97/TIL/blob/main/DB/Join.md)
   * Subquery
   * N+1 Problem

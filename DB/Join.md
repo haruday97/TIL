@@ -15,7 +15,7 @@
         Outer Join : 합집합 - Oracle 고유의 문법이다.
     </li>
 </ul>
-테이블 예시는 다음과 같다.
+테이블 예시는 다음과 같다.<br>
 
 <table>
 <thead>A</thead>
@@ -47,7 +47,6 @@
         <td>
             독일
         </td>
-    </tr>
     </tr>
 </table>
 <table>
