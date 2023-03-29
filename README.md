@@ -1,5 +1,4 @@
-# TIL 
-***
+# TIL
 * ### HTML
 *** 
 * ### CSS
@@ -46,7 +45,7 @@
   * Breadth First Algorithm
   * Depth First Algorithm
 ***
-* ### Web
+* ### Networks
   * How does the Internet work
   * TDP/IP
   * PORT
@@ -60,26 +59,25 @@
   * [What is SQL](https://github.com/haruday97/TIL/blob/main/DB/What%20is%20SQL.md) 
   * [Installation of MySQL](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
   * [Queries](https://github.com/haruday97/TIL/blob/main/DB/Queries.md)
-  * Schema
+  * [Schema](https://github.com/haruday97/TIL/blob/main/DB/Database%20Design.md)
+  * [Join](https://github.com/haruday97/TIL/blob/main/DB/Join.md)
   * Subquery
-  * ORMs
   * N+1 Problem
-  * Database Normalization
-  * Index
 ***
 * ### Spring
   * Dependency Injection
   * Log4j2
 ***
-* ### Practicing
+* ### Coding Problems
 ***
 * ### Errors
 ***
 * ### Git
 ***
-* ### Linux
+* ### Operating System
+* #### Linux
 ***
-* ### Book Report
+* ### Book Reports
 *** 
 * Clean Code
 * Code Complete 2
