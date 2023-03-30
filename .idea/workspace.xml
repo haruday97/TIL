@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/03/30">
+      <change afterPath="$PROJECT_DIR$/Book Reports/커리어 스킬.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB/Subquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrospective/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tips/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tips/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/Join.md" beforeDir="false" afterPath="$PROJECT_DIR$/DB/Join.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/Git Bash 시작위치 변경법.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tips/Git Bash 시작위치 변경법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +59,11 @@
     "last_opened_file_path": "C:/Users/hiten/projects/TIL"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hiten\projects\TIL\History" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="TIL" />
@@ -285,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680178817289</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="23/03/30">
+      <created>1680178904417</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680178904417</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
