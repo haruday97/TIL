@@ -4,7 +4,7 @@
 <ul>
     <li>3/28 : What is SQL, Installation of MySql, Queries 작성</li>
     <li>3/29 : Database Design, Join 작성</li>
-    <li>3/30 : Queries, Join, Subquery, Git Bash 시작위치 변경법 작성 및 수정</li>
+    <li>3/30 : Queries, Join, Subquery, Database Design, Git Bash 시작위치 변경법 작성 및 수정</li>
     <li>3/31 : Spring 작성예정</li>
 </ul>
 
