@@ -1,10 +1,7 @@
 # TIL
 ### HTML
-*** 
 ### CSS
-***  
 ### Java Script
-*** 
 ### Java
   * Installation of JDK
   * Basic
@@ -24,7 +21,6 @@
   * Stream
   * Thread
   * JVM
-***
 ### Data Structure
   * Stack
   * Queue
@@ -34,7 +30,6 @@
   * Deque
   * Hash Table
   * Heap Tree
-***
 ### Algorithm
   * Time Complexity
   * Greedy Algorithm
@@ -44,7 +39,6 @@
   * Combination
   * Breadth First Algorithm
   * Depth First Algorithm
-***
 ### Networks
   * How does the Internet work
   * TDP/IP
@@ -54,7 +48,6 @@
   * JSON
   * AJAX
   * API
-***
 ### DB
   * [What is SQL](https://github.com/haruday97/TIL/blob/main/DB/What%20is%20SQL.md) 
   * [Installation of MySQL](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
@@ -63,22 +56,15 @@
   * [Join](https://github.com/haruday97/TIL/blob/main/DB/Join.md)
   * Subquery
   * N+1 Problem
-***
 ### Spring
   * Dependency Injection
   * Log4j2
-***
 ### Coding Problems
-***
 ### Errors
-***
 ### Git
-***
 ### Operating System
 #### Linux
-***
 ### Book Reports
-*** 
 * Clean Code
 * Code Complete 2
 * 한 권으로 읽는 컴퓨터 구조와 프로그래밍
