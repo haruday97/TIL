@@ -74,7 +74,6 @@
   * Dependency Injection
   * Log4j2
 ### Coding Problems
-### Errors
 ### Git
 ### Operating System
 #### Linux
@@ -132,8 +131,9 @@
 * 스프링 퀵 스타트
 ### Tips
 * [Git Bash 시작위치 변경법]()
+### Errors
 ### Retrospective
-* [History](https://github.com/haruday97/TIL/blob/main/Retrospective/history.md)
+* [History](https://github.com/haruday97/TIL/blob/main/Retrospective/History.md)
 * 코드스테이츠 SECTION 2회차 회고
 ***
 ## Hit me up!  👇
