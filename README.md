@@ -130,7 +130,7 @@
 * 커리어 스킬
 * 스프링 퀵 스타트
 ### Tips
-* [Git Bash 시작위치 변경법]()
+* [Git Bash 시작위치 변경법](https://github.com/haruday97/TIL/blob/main/Tips/Git%20Bash%20%EC%8B%9C%EC%9E%91%EC%9C%84%EC%B9%98%20%EB%B3%80%EA%B2%BD%EB%B2%95.md)
 ### Errors
 ### Retrospective
 * [History](https://github.com/haruday97/TIL/blob/main/Retrospective/History.md)
