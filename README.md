@@ -1,10 +1,37 @@
 # TIL
-### HTML
-### CSS
-### Java Script
-### Java
+## HTML
+  * HTML Basics
+  * Forms And Validations
+  * Best Practices
+  * Sementic HTML
+## CSS
+  * CSS Basics
+  * Properties
+  * Selectors
+  * Text And Font
+  * Layouts
+    * Float
+    * Positioning
+    * Display
+    * Box Model
+    * CSS Grid
+    * Flex Box
+  * Responsive Design And Media Queries
+  * Bootstrap
+## Java Script
+  * JS Basics
+  * DOM
+  * Fetch API / AJAX (XHR)
+  * ES6+ And Modular JS
+  * Hoisting
+  * Event Bubbling
+  * Scope
+  * Prototype
+  * Shadow DOM
+  * Strict
+## Java
   * Installation of JDK
-  * Basic
+  * Java Basics
   * String
   * Operator
   * Class and Object
@@ -21,7 +48,7 @@
   * Stream
   * Thread
   * JVM
-### Data Structure
+## Data Structure
   * Stack
   * Queue
   * Tree
@@ -30,7 +57,7 @@
   * Deque
   * Hash Table
   * Heap Tree
-### Algorithm
+## Algorithm
   * Time Complexity
   * Greedy Algorithm
   * Brute Force Algorithm
@@ -39,7 +66,7 @@
   * Combination
   * Breadth First Algorithm
   * Depth First Algorithm
-### Networks
+## Networks
   * How does the Internet work
   * TDP/IP
   * PORT
@@ -62,77 +89,86 @@
     * Server-side 
     * CDN
   * MD5
-### DB
+## DB
   * [What is SQL](https://github.com/haruday97/TIL/blob/main/DB/What%20is%20SQL.md) 
   * [Installation of MySQL](https://github.com/haruday97/TIL/blob/main/DB/Installation%20of%20MySQL.md)
   * [Queries](https://github.com/haruday97/TIL/blob/main/DB/Queries.md)
   * [Database Design](https://github.com/haruday97/TIL/blob/main/DB/Database%20Design.md)
   * [Join](https://github.com/haruday97/TIL/blob/main/DB/Join.md)
   * [Subquery](https://github.com/haruday97/TIL/blob/main/DB/Subquery.md)
-  * N+1 Problem
-### Spring
-  * Dependency Injection
-  * Log4j2
-### Coding Problems
-### Git
-### Operating System
-#### Linux
-### Software Testing
+## Spring
+  * [What is Framework]()
+  * [Plain Old Java Object]()
+  * [Inversion of Control]()
+  * [Dependency Injection]()
+  * [Aspect Oriented Programming]()
+  * [Portable Service Abstraction]()
+  * [Architecture]()
+### Spring Boot
+  * 
+### Spring MVC
+  *
+### Spring Security
+  *
+## Coding Problems
+## Git
+## Operating System
+### Linux
+## Software Testing
 * Unit Testing
 * Integration Testing
 * Functional Testing
-### CI/CD
+## CI/CD
 * CI
 * CD
-### Design Patterns
+## Design Patterns
 * GoF Design Patterns
 * Domain Driven Design
 * Test Driven Development
 * CQRS
 * Event Sourcing
-### Architectural Patterns
+## Architectural Patterns
 * Monolithic Apps
 * Microservices
 * SOA
 * Serverless
 * Service Mesh
 * Twelve Factor Apps
-### Search Engines
+## Search Engines
 * Elasticsearch
 * Solr
-### Message Brokers
+## Message Brokers
 * RabbitMQ
 * Kafka
-### Containerization vs Virtualization
+## Containerization vs Virtualization
 * Kubernetes
 * Docker
 * LXC
-### GraphQL
+## GraphQL
 * Apollo
 * Relay Modern
-### WebSockets
-### Server Sent Events
-### Web Servers
+## WebSockets
+## Server Sent Events
+## Web Servers
 * Nginx
 * Apache
 * Caddy
 * MS IIS
-### Building For Scale
+## Building For Scale
 * Instrumentation
 * Graceful Degradation
 * Migration Strategies
 * Types of Scaling
 * Observability
-### Book Reports
+## Book Reports
 * Clean Code
 * Code Complete 2
 * 한 권으로 읽는 컴퓨터 구조와 프로그래밍
 * 커리어 스킬
-* 스프링 퀵 스타트
-### Tips
+## Tips
 * [Git Bash 시작위치 변경법](https://github.com/haruday97/TIL/blob/main/Tips/Git%20Bash%20%EC%8B%9C%EC%9E%91%EC%9C%84%EC%B9%98%20%EB%B3%80%EA%B2%BD%EB%B2%95.md)
-### Errors
-### Retrospective
+## Errors
+## Retrospective
 * [History](https://github.com/haruday97/TIL/blob/main/Retrospective/History.md)
 * 코드스테이츠 SECTION 2회차 회고
 ***
