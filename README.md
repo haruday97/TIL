@@ -99,8 +99,8 @@
 ## Spring
   * [What is Framework](https://github.com/haruday97/TIL/blob/main/Spring/What%20is%20Framework.md)
   * [Plain Old Java Object](https://github.com/haruday97/TIL/blob/main/Spring/Plain%20Old%20Java%20Object.md)
-  * [Inversion of Control]()
-  * [Dependency Injection]()
+  * [Inversion of Control](https://github.com/haruday97/TIL/blob/main/Spring/Inversion%20of%20Control.md)
+  * [Dependency Injection](https://github.com/haruday97/TIL/blob/main/Spring/Dependency%20Injection.md)
   * [Aspect Oriented Programming]()
   * [Portable Service Abstraction]()
   * [Architecture]()

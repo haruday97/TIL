@@ -11,8 +11,8 @@
 ### April
 
 <ul>
-    <li>4/1 : </li>
-    <li>4/2 : </li>
+    <li>4/1 : Dependency Injection, Inversion of Control 작성 </li>
+    <li>4/2 : Aspect Oriented Programming, Portable Service Abstraction 작성</li>
     <li>4/3 : </li>
     <li>4/4 : </li>
     <li>4/5 : </li>
