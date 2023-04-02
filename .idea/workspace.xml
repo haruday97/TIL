@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/04/01">
-      <change afterPath="$PROJECT_DIR$/Spring/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_13.png" afterDir="false" />
+    <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/04/02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Retrospective/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/Retrospective/History.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring/Aspect Oriented Programming.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/Aspect Oriented Programming.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring/Portable Service Abstraction.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/Portable Service Abstraction.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680446873728</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="23/04/02">
+      <created>1680479401000</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1680479401000</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,6 +379,7 @@
     <MESSAGE value="23/03/30" />
     <MESSAGE value="23/03/31" />
     <MESSAGE value="23/04/01" />
-    <option name="LAST_COMMIT_MESSAGE" value="23/04/01" />
+    <MESSAGE value="23/04/02" />
+    <option name="LAST_COMMIT_MESSAGE" value="23/04/02" />
   </component>
 </project>
