@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/03/31">
+      <change afterPath="$PROJECT_DIR$/Spring/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring/What is Framework.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/What is Framework.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrospective/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/Retrospective/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/Dependency Injection.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/Dependency Injection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/Inversion of Control.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/Inversion of Control.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680316021936</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="23/03/31">
+      <created>1680316081549</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1680316081549</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
