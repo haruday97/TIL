@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/04/02">
-      <change afterPath="$PROJECT_DIR$/Spring/Spring Boot/Spring Boot Introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/img_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tips/Introduction to the Spring Framework 번역.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tips/img_2.png" afterDir="false" />
+    <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/04/03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Retrospective/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/Retrospective/History.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring/Architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/Architecture.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +55,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hiten\projects\TIL\Translations" />
       <recent name="C:\Users\hiten\projects\TIL\History" />
     </key>
   </component>
@@ -371,7 +362,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680479476627</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="23/04/03">
+      <created>1680525880133</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1680525880133</updated>
+    </task>
+    <task id="LOCAL-00044" summary="23/04/03">
+      <created>1680526134719</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1680526134719</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,6 +403,7 @@
     <MESSAGE value="23/03/31" />
     <MESSAGE value="23/04/01" />
     <MESSAGE value="23/04/02" />
-    <option name="LAST_COMMIT_MESSAGE" value="23/04/02" />
+    <MESSAGE value="23/04/03" />
+    <option name="LAST_COMMIT_MESSAGE" value="23/04/03" />
   </component>
 </project>

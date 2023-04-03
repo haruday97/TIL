@@ -77,7 +77,7 @@ Java 플랫폼 아키텍처의 예시를 들면 다음 이미지와 같다.
 위 이미지는 스프링 프레임워크에서 지원하는 모듈<sup>[2](#footnote_2)</sup>들을 아키텍처로 표현한 그림이다. 스프링 프레임워크에서는 약 20여개의 모듈을 통해 다양한 기능을 제공한다.
 
 ## 같이보면 좋은 문서
-[Introduction to the Spring Framework 번역]()
+[Introduction to the Spring Framework 번역](https://github.com/haruday97/TIL/blob/main/Translations/Introduction%20to%20the%20Spring%20Framework%20%EB%B2%88%EC%97%AD.md)
 ***
 <sup><a name="footnote_1">1</a></sup> 애플리케이션 개발에서 사용되는 도메인(Domain)이란, 해당 애플리케이션이 다루는 문제 영역 혹은 주제 영역을 의미한다. 예를 들어 은행 애플리케이션의 경우 도메인은 금융 업무와 관련된 여러가지를 포함한다. 도메인은 비즈니스적인 업무영역과 관련이 있다.  
 <sup><a name="footnote_2">2</a></sup> Java에서는 일반적으로 지원되는 여러가지 기능들을 목적에 맞게 그룹화 하여 묶어놓은 것을 모듈이라고 부른다. 이러한 모듈들은 Java의 패키지 단위로 묶여 있으며, 이 패키지 안에는 관련 기능을 제공하기 위한 클래스들이 포함되어 있다. 일반적으로 모듈은 <b>재사용 가능하도록 라이브러리 형태로 제공된다.</b>

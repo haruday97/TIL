@@ -171,7 +171,7 @@
 
 ## Errors
 ## Translations
-* [Introduction to the Spring Framework 번역]()
+* [Introduction to the Spring Framework 번역](https://github.com/haruday97/TIL/blob/main/Translations/Introduction%20to%20the%20Spring%20Framework%20%EB%B2%88%EC%97%AD.md)
 ## Retrospective
 * [History](https://github.com/haruday97/TIL/blob/main/Retrospective/History.md)
 * 코드스테이츠 SECTION 2회차 회고
