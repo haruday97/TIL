@@ -105,7 +105,7 @@
   * [Portable Service Abstraction](https://github.com/haruday97/TIL/blob/main/Spring/Portable%20Service%20Abstraction.md)
   * [Architecture](https://github.com/haruday97/TIL/blob/main/Spring/Architecture.md)
   * Spring Boot
-    * [Spring Boot Introduction]() 
+    * [Spring Boot Introduction](https://github.com/haruday97/TIL/blob/main/Spring/Spring%20Boot/Spring%20Boot%20Introduction.md) 
   * Spring MVC
     * 
   * Spring Authentication
@@ -168,8 +168,10 @@
 * 토비의 스프링 3.1
 ## Tips
 * [Git Bash 시작위치 변경법](https://github.com/haruday97/TIL/blob/main/Tips/Git%20Bash%20%EC%8B%9C%EC%9E%91%EC%9C%84%EC%B9%98%20%EB%B3%80%EA%B2%BD%EB%B2%95.md)
-* [Introduction to the Spring Framework 번역]()
+
 ## Errors
+## Translations
+* [Introduction to the Spring Framework 번역]()
 ## Retrospective
 * [History](https://github.com/haruday97/TIL/blob/main/Retrospective/History.md)
 * 코드스테이츠 SECTION 2회차 회고

@@ -28,7 +28,7 @@ Folwer는 이 원칙을 더욱 자명하게 하기위해 용어의 이름을 Dep
 ## 2.2 모듈
 Spring Framework는 약 20개의 모듈로 구성된 기능으로 이루어져 있습니다. 이러한 모듈은 코어 컨테이너, 데이터 액세스/통합, 웹, AOP(Aspect Oriented Programming), Instrumentation, 메시징, 테스트로 그룹화되며 다음 다이어그램과 같이 나타낼 수 있습니다.  
 ### 그림 2.1 Spring Framework 개요
-![img_2.png](img_2.png)   
+![img_2.png](../Tips/img_2.png)   
 
 다음 섹션에서는 각 기능에 대해 사용 가능한 모듈을 그들의 아티팩트 이름과 함께 나열하고 다루는 주제를 제공합니다. 아티팩트 이름은 의존성 관리 도구에서 사용되는 아티팩트 ID와 관련이 있습니다.  
 
