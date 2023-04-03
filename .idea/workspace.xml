@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b411ba-496a-4595-bbb4-d7863dec01b4" name="변경" comment="23/04/03">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring/Spring Boot/Spring Boot Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/Spring Boot/Spring Boot Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Translations/Introduction to the Spring Framework 번역.md" beforeDir="false" afterPath="$PROJECT_DIR$/Translations/Introduction to the Spring Framework 번역.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/Architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/Architecture.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680526192844</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="23/04/03">
+      <created>1680563558334</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1680563558334</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
