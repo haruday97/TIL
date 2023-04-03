@@ -5,15 +5,15 @@
     <li>3/28 : What is SQL, Installation of MySql, Queries 작성</li>
     <li>3/29 : Database Design, Join 작성</li>
     <li>3/30 : Queries, Join, Subquery, Database Design, Git Bash 시작위치 변경법 작성 및 수정</li>
-    <li>3/31 : What is Framework, Plain Old Java Object 작성 </li>
+    <li>3/31 : What is Framework, Plain Old Java Object 작성</li>
 </ul>
 
 ### April
 
 <ul>
-    <li>4/1 : Dependency Injection, Inversion of Control 작성 </li>
+    <li>4/1 : Dependency Injection, Inversion of Control 작성</li>
     <li>4/2 : Aspect Oriented Programming, Portable Service Abstraction 작성</li>
-    <li>4/3 : </li>
+    <li>4/3 : Introduction to the Spring Framework 번역, Architecture, Spring Boot Introduction 작성</li>
     <li>4/4 : </li>
     <li>4/5 : </li>
     <li>4/6 : </li>
