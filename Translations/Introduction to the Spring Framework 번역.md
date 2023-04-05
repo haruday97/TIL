@@ -1,7 +1,7 @@
 # Introduction to the Spring Framework 번역
 
 ## 2. Spring Framework 소개
-Spring Framework는 Java 애플리케이션 개발을 위한 포괄적인 인프라 지원을 제공하는 Java 플랫폼입니다. Spring은 인프라를 처리해주므로 애플리케이션에 집중할 수 있습니다.  
+Spring Framework는 Java 애플리케이션 개발을 위한 포괄적인 인프라 지원을 제공하는 Java 플랫폼입니다. Spring은 인프라를 처리해주므로 당신은 애플리케이션에 집중할 수 있습니다.  
 Spring은 "plain old Java objects" (POJO)에서 엔터프라이즈 서비스를 비침입적으로 적용하고, Java SE 프로그래밍 모델과 Java EE의 전체 및 일부에 적용할 수 있도록 합니다.  
 애플리케이션 개발자로써 Spring 플랫폼에서 어떻게 이점을 얻을 수 있는지 예를 들어보면 다음과 같습니다.
 원격 API를 다룰 필요 없이 로컬 Java 메서드를 원격 프로시저로 만들 수 있습니다.

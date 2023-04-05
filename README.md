@@ -1,22 +1,22 @@
 # TIL
 ## HTML
-  * HTML Basics
-  * Forms and Validations
+  * HTML basics
+  * Forms and validations
   * Best Practices
-  * Sementic HTML
+  * Semantic HTML
 ## CSS
-  * CSS Basics
+  * CSS basics
   * Properties
   * Selectors
-  * Text and Font
-  * Layouts
+  * Text and font
+  * *Layouts*
     * Float
     * Positioning
     * Display
     * Box Model
     * CSS Grid
     * Flex Box
-  * Responsive Design and Media Queries
+  * Responsive design and media queries
   * Bootstrap
 ## Java Script
   * JS Basics
@@ -24,25 +24,25 @@
   * Fetch API / AJAX (XHR)
   * ES6+ and Modular JS
   * Hoisting
-  * Event Bubbling
+  * Event bubbling
   * Scope
   * Prototype
   * Shadow DOM
   * Strict
 ## Java
   * Installation of JDK
-  * Java Basics
+  * Java basics
   * String
   * Operator
-  * Class and Object
-  * Method and Constructor
+  * Class and object
+  * Method and constructor
   * Array
-  * Control Statement
+  * Control statement
   * OOP
   * Package
-  * Access Modifier
+  * Access modifier
   * Generics
-  * Collection Framework
+  * Collection framework
   * Exception
   * Lambda
   * Stream
@@ -53,10 +53,10 @@
   * Queue
   * Tree
   * Graph
-  * Linked List
+  * Linked list
   * Deque
-  * Hash Table
-  * Heap Tree
+  * Hash table
+  * Heap tree
 ## Algorithm
   * Time Complexity
   * Greedy Algorithm
@@ -104,8 +104,13 @@
   * [Aspect Oriented Programming](https://github.com/haruday97/TIL/blob/main/Spring/Aspect%20Oriented%20Programming.md)
   * [Portable Service Abstraction](https://github.com/haruday97/TIL/blob/main/Spring/Portable%20Service%20Abstraction.md)
   * [Architecture](https://github.com/haruday97/TIL/blob/main/Spring/Architecture.md)
-  * Spring Boot
+  * *Spring Boot*
     * [Spring Boot Introduction](https://github.com/haruday97/TIL/blob/main/Spring/Spring%20Boot/Spring%20Boot%20Introduction.md) 
+    * Spring Container
+    * Bean
+      * Bean scope
+    * Singleton
+    * Component scan
   * Spring MVC
     * 
   * Spring Authentication
@@ -166,9 +171,12 @@
 * 한 권으로 읽는 컴퓨터 구조와 프로그래밍
 * 커리어 스킬
 * 토비의 스프링 3.1
+## Lectures
+* [Spring Boot 3, Spring 6 & Hibernate for Beginners]()
+
 ## Tips
 * [Git Bash 시작위치 변경법](https://github.com/haruday97/TIL/blob/main/Tips/Git%20Bash%20%EC%8B%9C%EC%9E%91%EC%9C%84%EC%B9%98%20%EB%B3%80%EA%B2%BD%EB%B2%95.md)
-
+* [JDK 여러 버전 설치법]()
 ## Errors
 ## Translations
 * [Introduction to the Spring Framework 번역](https://github.com/haruday97/TIL/blob/main/Translations/Introduction%20to%20the%20Spring%20Framework%20%EB%B2%88%EC%97%AD.md)
