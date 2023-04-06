@@ -172,11 +172,11 @@
 * 커리어 스킬
 * 토비의 스프링 3.1
 ## Lectures
-* [Spring Boot 3, Spring 6 & Hibernate for Beginners]()
+* [Spring Boot 3, Spring 6 & Hibernate for Beginners](https://github.com/haruday97/TIL/blob/main/Lectures/%20Spring%20Boot%203%2C%20Spring%206%20%26%20Hibernate%20for%20Beginners/Section1.md)
 
 ## Tips
 * [Git Bash 시작위치 변경법](https://github.com/haruday97/TIL/blob/main/Tips/Git%20Bash%20%EC%8B%9C%EC%9E%91%EC%9C%84%EC%B9%98%20%EB%B3%80%EA%B2%BD%EB%B2%95.md)
-* [JDK 여러 버전 설치법]()
+* [JDK 여러 버전 설치법](https://github.com/haruday97/TIL/blob/main/Tips/JDK%20%EC%97%AC%EB%9F%AC%20%EB%B2%84%EC%A0%84%20%EC%84%A4%EC%B9%98%EB%B2%95.md)
 ## Errors
 ## Translations
 * [Introduction to the Spring Framework 번역](https://github.com/haruday97/TIL/blob/main/Translations/Introduction%20to%20the%20Spring%20Framework%20%EB%B2%88%EC%97%AD.md)

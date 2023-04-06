@@ -14,8 +14,8 @@
     <li>4/1 : Dependency Injection, Inversion of Control 작성</li>
     <li>4/2 : Aspect Oriented Programming, Portable Service Abstraction 작성</li>
     <li>4/3 : Introduction to the Spring Framework 번역, Architecture, Spring Boot Introduction 작성</li>
-    <li>4/4 : </li>
-    <li>4/5 : </li>
+    <li>4/4 : JDK 여러 버전 설치법, Section1 작성 </li>
+    <li>4/5 : Section1 작성 </li>
     <li>4/6 : </li>
     <li>4/7 : </li>
     <li>4/8 : </li>
@@ -51,3 +51,9 @@
 
 ### August
 
+### 유용한 링크들
+[Spring Boot Tutorial - Learn the popular Java framework](https://www.freecodecamp.org/news/spring-boot-tutorial/)  
+[Spring Boot Tutorial – How to Build Fast and Modern Java Apps](https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/)  
+[Learn Spring Boot](https://www.baeldung.com/spring-boot)  
+[Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)  
+[What is Spring Framework? An Unorthodox Guide](https://www.marcobehler.com/guides/spring-framework)

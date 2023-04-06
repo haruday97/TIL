@@ -1,6 +1,5 @@
-# Section1
+# Spring Boot 3, Spring 6 & Hibernate for Beginners Section1
 ## Spring Boot 3 Quick Start
-
 ### 요구사항
 * Java 17 사용
   * Spring Boot 3은 Java17 이상의 버전을 요함
@@ -55,9 +54,37 @@ Java 프로젝트를 개발할때 추가 JAR파일이 필요할 수 있다. exam
 즉 비유하자면 Maven에게 쇼핑목록을 적어주고, Maven은 이 쇼핑목록이 적힌 종이를 가지고 대신 장을 보는 것이다.  
 Maven의 동작은 다음과 같다.
 1. 프로젝트의 설정 파일(쇼핑목록)을 Maven이 읽는다.
-2. Maven은 로컬 컴퓨터 안의 Maven Local Repository을 체크하고 해당 파일이 없다면 ...
+2. Maven은 로컬 컴퓨터 안의 Maven Local Repository을 체크하고 해당 파일이 없다면 인터넷에 위치한 Maven Central Repo에서 원격으로 접속해 JAR파일을 받아 로컬 repo에 저장한다.
+3. Maven은 저장한 JAR파일을 빌드하고 실행한다. 
 
 ![img.png](img.png)
+
+#### Maven Project Structure
+* 일반적으로 개발팀마다 고유의 디렉토리 구조를 가지게 되는데, 새로 프로젝트에 합류한다면 표준화가 되어있지 않아 어려움을 겪을수 있다.
+  * 메이븐은 이러한 어려움을 표준화된 디렉토리 구조를 제공함으로써 해결해준다.
+  * 새로 합류한 사용자는 보다 쉽게 코드와 속성파일, 유닛 테스트, 웹 파일 등을 찾을 수 있게된다.
+  
+![img_6.png](img_6.png)  
+pom.xml이 루트 디렉토리에 위치하는데 이는 Maven configuration 파일로 위에 언급한 쇼핑목록에 해당한다.  
+* java : 개발자가 적은 코드가 위치하는 폴더
+* resources : 속성 혹은 애플리케이션이 사용하는 설정 파일들이 위치하는 폴더 
+* webapp : 이미지에는 없지만 JSP, 웹 config, CSS 파일 등이 위치하는 폴더이다.
+* test : unit testing 소스코드 혹은 이들이 사용하는 설정파일이 위치한 폴더이다.
+* target : 컴파일한 코드들과 Maven이 생성할 artifacts의 목적지 폴더이다.
+
+#### Maven Key Concepts
+* Pom(Project object model)파일은 한 프로젝트에 대한 구성 파일이며, 언제나 메이븐 프로젝트의 루트에 위치한다. pom파일의 구조는 다음과 같다.
+  1. project meta data : 프로젝트에 대한 정보 (프로젝트명, 버전, output 파일타입 : JAR, WAR, ...)
+  2. dependencies : 해당 프로젝트가 의존하는 프로젝트의 리스트 (Spring, Hibernate, etc, ...)
+  3. plug ins : 실행할 추가적인 사용자지정 작업 : JUnit test reports, etc, ... 
+
+![img_7.png](img_7.png)
+* modelVersion : 모델버전은 4.0.0으로 항상 같다.
+* groupId ~ url : 1에 해당한다. 
+  * Project Coordinates(groupID~version) :프로젝트 좌표는 GPS 좌표와 유사한 방식으로 프로젝트를 식별하는데 사용한다.
+* dependencies : 2에 해당한다.
+
+
 
 ### Goals of Spring
 * Java POJOs의 경량화된 개발
