@@ -1,0 +1,31 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+# This workflow will build a Java project with Gradle and cache/restore any dependencies to improve the workflow execution time
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle
+
+name: Build README
+on:
+  push:
+    branches:
+    - main
+    paths-ignore:
+    - README.md
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        # necessary for github-action-til-autoformat-readme
+        fetch-depth: 0
+    - name: Autoformat README
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
+      with:
+        description: |
+          매일 배운 것들을 기록합니다.
+          Daily-Coding-Problems는 Readme에서 확인이 불가합니다.
+        list_most_recent: 2 # optional, lists most recent TILS below description
+        date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
