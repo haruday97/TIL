@@ -1,6 +1,4 @@
-# HTML-basics
-***
-
+# HTML-Basics
 ## HTML이란
 HTML은 Hyper Text Markup Language의 약자이며
 문서에 정보를 나타내기 위한 마크드업 언어이다.
