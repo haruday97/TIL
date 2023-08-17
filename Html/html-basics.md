@@ -4,10 +4,10 @@
 ## HTML이란
 HTML은 Hyper Text Markup Language의 약자이며
 문서에 정보를 나타내기 위한 마크드업 언어이다.
-![시험지](../assets/test_paper.png)
+![시험지](../Assets/test_paper.png)
 
 ## HTML의 구조
-![html structure](../assets/html_structure.png)  
+![html structure](../Assets/html_structure.png)  
 `<!DOCTYPE html>` : 브라우저에게 현재 문서가 HTML5<sup id ="note_1">[1](#footnote_1)</sup> 문서임을 알리는 역할을 한다.  
 `<html>` : HTML 문서의 root 요소를 정의한다.  
 `<head>` :HTML 문서의 메타데이터<sup id ="note_2">[2](#footnote_2)</sup>를 정의한다.  
@@ -18,7 +18,7 @@ HTML은 Hyper Text Markup Language의 약자이며
 
 ## Elements
 요소(element)의 구조는 `<태그이름 속성이름= "속성값">`으로 표현된다.
-![html element](../assets/html_element.png)
+![html element](../Assets/html_element.png)
 
 ## Div와 Span
 둘다 제네릭 컨테이너의 역할을 하는 태그이나 
