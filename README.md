@@ -5,19 +5,24 @@
 Daily-Coding-Problems는 Readme에서 확인이 불가합니다.
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
-- [HTML-basics](Html/html-basics.md) - Thu Aug 17 09:50:49 2023 +0900
+- [Css-Basics](Css/css-basics.md) - Thu Aug 17 10:37:58 2023 +0900
+- [HTML-Basics](Html/html-basics.md) - Thu Aug 17 09:50:49 2023 +0900
 
 ### Categories
 
+- [Css](#Css)
 - [Html](#Html)
 
+### [Css](#Css)
+- [Css-Basics](Css/css-basics.md)
+
 ### [Html](#Html)
-- [HTML-basics](Html/html-basics.md)
+- [HTML-Basics](Html/html-basics.md)
 
 
