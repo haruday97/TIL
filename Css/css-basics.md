@@ -43,7 +43,7 @@ CSS를 적용하는 방법은 세가지가 있다.
 </head>
 ```
 외부의 css파일을 연결해 하나의 css파일에서 관리할수 있게 하는 방식이다.  
-보통 권장되는 방법이며 코드 수정에 용이하다.  
+보통 권장되는 방법이며 유지보수에 용이하다.  
 
 ## Color
 CSS에서 색상을 표현하는 방법은 3가지가 있다.
@@ -196,6 +196,34 @@ h1 {
 ![specificity_calculating](../Assets/specificity_calculating.png)  
 일반적으로 공식은 ID > Class > Element이다. 계산 공식을 외울 필요는 없지만 알면 좋다. 
 참고로 이를 계산해주는 [사이트](https://specificity.keegan.st/)가 있다. 
+
+## Box-Model
+
+모든 HTML 요소는 박스의 형태로 구성된다.  
+이를 박스 모델이라고 일컫는다.  
+박스 모델은 HTML 요소를 Padding, Border, Margin 그리고 Content로 구분한다.  
+![html element](../Assets/box_model.png)
+
+## Units
+CSS에서 길이를 표현하는 단위들이다. 자주 쓰이는 단위들의 종류는 다음과 같다.
+<ul>
+    <li>px</li>
+웹에서 유일하게 쓰이는 절대적 단위
+    <li>em</li>
+상대적 단위로 2em은 부모 요소보다 2배 크다는 의미이다.
+    <li>rem</li>
+루트 HTML 요소의 크기를 기준으로 하는 상대적 단위이다.
+    <li>vw</li>
+뷰포트의 width의 상대적 단위이다.
+브라우저의 width가 640px일 경우 1vw는 6.4 vw가 된다.
+    <li>vh</li>
+뷰포트의 height의 상대적 단위이다.
+브라우저의 height가 480px일 경우 1vh는 4.8 vw가 된다.
+    <li>%</li>
+부모 요소의 크기에 영향을 받는 상대적 단위이다.
+50%로 설정할 경우 부모 요소의 절반 너비로 설정하게 되는 것이다.
+</ul>
+
 
 ## References
 http://www.tcpschool.com/css/css_intro_basic  
