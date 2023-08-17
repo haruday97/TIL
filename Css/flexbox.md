@@ -21,7 +21,7 @@
 ![flexbox_axes](../Assets/flexbox_axes.png)  
 주축(Main axis)과 교차축(Cross Axis)은 Flexbox의 핵심 개념이다.  
 주축은 `flex-direction` 속성을 사용하여 지정하며 교차축은 이에 수직인 축으로 결정이 된다.  
-그냥 가로면 주축, 세로면 교차축이 아니다.
+그냥 가로면 주축, 세로면 교차축이 아님을 유의한다.
 
 ## flex-direction
 주축의 디폴트 방향은 왼쪽에서 오른쪽이다.  
@@ -95,6 +95,7 @@ wrap이나 wrap-reverse가 적용되지 않았다면 아무런 동작을 수행�
     <li> space-around </li>
 </ul>
 
+***
 ## References
-https://developer.mozilla.org/ko/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+https://developer.mozilla.org/ko/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox  
 http://www.tcpschool.com/css/css3_expand_flexbox

@@ -224,7 +224,7 @@ CSS에서 길이를 표현하는 단위들이다. 자주 쓰이는 단위들의 
 50%로 설정할 경우 부모 요소의 절반 너비로 설정하게 되는 것이다.
 </ul>
 
-
+***
 ## References
 http://www.tcpschool.com/css/css_intro_basic  
 https://www.quora.com/Why-do-we-have-so-many-different-color-selecting-options-e-g-hex-RGB-CMYK
