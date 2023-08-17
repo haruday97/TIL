@@ -90,7 +90,113 @@ h1 {
 
 도구는 다다익선이듯이 그저 개발자에게 주어진 추가적인 옵션이라고 이해하면 될 듯하다.
 
+## Selector
+스타일을 적용할 대상하기 위해 선택자(Selector)를 사용한다.  
+<ul>
+    <li>Universal Selector</li>
+    <li>ID Selector</li>
+    <li>Element Selector</li>
+    <li>Class Selector</li>
+    <li>Descendant Selector</li>
+    <li>Adjacent Selector</li>
+    <li>Direct Child Selector</li>
+    <li>Attribute Selector</li>
+</ul>
+
+### Universal Selector
+```
+* {
+    color: red;
+}
+```
+문서의 모든 요소를 선택한다.  
+안쓴다.
+
+### ID Selector
+```
+#idname {
+    color: red;
+}
+```
+아이디는 고유한 식별자이므로 하나의 ID는 페이지 내에 한번만 나와야 함을 유의.
+### Element Selector
+```
+p {
+    color: red;
+}
+```
+### Class Selector
+```
+.classname {
+    color: red;
+}
+```
+### Descendant Selector
+```
+li a {
+    color: red;
+}
+```
+`<li>`안에 모든 `<a>`를 선택한다.
+### Adjacent Selector
+```
+h1 + p {
+    color: red;
+}
+```
+`<h1>`에 인접한 모든 `<p>`를 선택한다.
+### Direct Child Selector
+```
+div > a {
+    color: red;
+}
+```
+`<div>`가 부모인 모든 `<a>`를 선택한다.
+### Attribute Selector
+```
+input[type="text"] {
+    color: red;
+}
+```
+type 속성이 `text`인 모든 요소를 선택한다.
 ***
+
+## Pseudo-Class
+가상 클래스(Pseuodo-Class)는 선택자 끝에 붙여 요소의 상태를 특정하는 키워드이다.  
+<ul>
+    <li>:active</li>
+    <li>:checked</li>
+    <li>:first</li>
+    <li>:first-child</li>
+    <li>:hover</li>
+    <li>:not()</li>
+    <li>:nth-child()</li>
+    <li>:nth-of-type()</li>
+</ul>
+
+## Cascade
+CSS는 적용되는 스타일의 순서가 중요하다. 
+마치 흐르는 폭포처럼 위에서 아래 순서로 적용이 된다.  
+위에서 스타일이 적용된 요소가 아래에서 다시 스타일이 적용되는 경우 가장 마지막 스타일이 적용된다.
+```
+h1 {
+    color: red;
+}
+```
+
+```
+h1 {
+    color: blue;
+}
+```
+
+## Specificity
+우선순위(Specificity)는 충돌이 생길경우 브라우저에서 규칙을 적용하는 방법이다.  
+충돌이 날 경우 브라우저는 선택자들끼리 얼마나 구체적인지 계산한 다음, 더 구체적인 선택자를 우선적으로 적용한다.  
+![specificity_calculating](../Assets/specificity_calculating.png)  
+일반적으로 공식은 ID > Class > Element이다. 계산 공식을 외울 필요는 없지만 알면 좋다. 
+참고로 이를 계산해주는 [사이트](https://specificity.keegan.st/)가 있다. 
+
 ## References
 http://www.tcpschool.com/css/css_intro_basic  
 https://www.quora.com/Why-do-we-have-so-many-different-color-selecting-options-e-g-hex-RGB-CMYK
