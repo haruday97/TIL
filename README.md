@@ -11,13 +11,21 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
+<<<<<<< HEAD
 - [HTML basics](Html/html-basics.md) - Thu Aug 17 09:47:09 2023 +0900
+=======
+- [HTML-basics](Html/html basics.md) - Thu Aug 17 09:47:09 2023 +0900
+>>>>>>> ed42c0a7f9c39a66c84ae0d4d9638e5b4337f260
 
 ### Categories
 
 - [Html](#Html)
 
 ### [Html](#Html)
+<<<<<<< HEAD
 - [HTML basics](Html/html-basics.md)
+=======
+- [HTML-basics](Html/html basics.md)
+>>>>>>> ed42c0a7f9c39a66c84ae0d4d9638e5b4337f260
 
 
