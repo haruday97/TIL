@@ -5,14 +5,14 @@
 Daily-Coding-Problems는 Readme에서 확인이 불가합니다.
 
 
-_4 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [JavaScript-Basics](JavaScript/js-basics.md) - Fri Aug 18 01:05:58 2023 +0900
-- [Flexbox](Css/flexbox.md) - Thu Aug 17 21:15:31 2023 +0900
+- [Loops](JavaScript/loops.md) - Fri Aug 18 20:00:53 2023 +0900
+- [Object-Literals](JavaScript/object-literals.md) - Fri Aug 18 20:00:53 2023 +0900
 
 ### Categories
 
@@ -28,6 +28,10 @@ _4 TILs and counting..._
 - [HTML-Basics](Html/html-basics.md)
 
 ### [JavaScript](#JavaScript)
+- [Arrays](JavaScript/arrays.md)
+- [Control-Statements](JavaScript/control-statements.md)
 - [JavaScript-Basics](JavaScript/js-basics.md)
+- [Loops](JavaScript/loops.md)
+- [Object-Literals](JavaScript/object-literals.md)
 
 
