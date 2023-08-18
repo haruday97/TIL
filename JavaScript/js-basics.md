@@ -116,3 +116,6 @@ undefined는 아무것도 하지 않은 상태이다.
 
 ***
 <sup><a id="footnote_1">[1](#note_1)</a></sup> 괄호(Parentheses) > 지수(Exponent) > 곱셈 (Multiplication) > 나눗셈 (Division) > 더하기 (Addition) > 빼기 (Subtraction)
+
+## References
+https://www.udemy.com/course/the-web-developer-bootcamp/  
