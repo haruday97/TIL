@@ -148,6 +148,22 @@ function greet(name){
 
 const greet = name => console.log(`hello ${name}!`);
 ```
+## Nullish Coalescing
+`??` 왼쪽이 null 혹은 undefined일 경우 오른쪽 항의 값을 반환한다.  
+```
+console.log(null ?? '으잉');
+```
+## Optional Chaining
+`?.` 왼쪽이 null 혹은 undefined일 경우 undefined를 반환한다.  
+중첩된 객체에서 값을 추출할때 주로 쓰인다.  
+```
+let user = {
+    name : 'kim',
+    age : 20
+}
+console.log(user?.age)
+```
+
 ***
 ## References
 https://www.udemy.com/course/the-web-developer-bootcamp/  

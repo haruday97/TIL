@@ -70,6 +70,101 @@ document.querySelector('h1').innerHTML += '<sup>1</sup>';
 ```
 document.querySelector('div').textContent = 'lmao';
 ```
+## Dom-Events
+DOM 이벤트는 사용자들이 하는 특정 행동에 반응하는 작업을 일컫는다.
+### adding events
+#### in-line
+```
+//index.html
+<body>
+    <h1>events</h1>
+    <button onclick="alert('ouch!')">click me</button>
+</body>
+```
+대충 봐도 알겠지만 HTML문서에 인라인으로 작성하기에 유지보수가 힘들어지고 가독성을 떨어뜨리기에 권장되지 않는 방법이다.
+
+```
+const btn2 = document.querySelector('#btn2');
+btn2.onclick = function() {
+    console.log("you got me!");
+}
+```
+#### addEventListener
+위의 방법은 동일한 이벤트에 대해 두개의 서로 다른 콜백함수를 지정할 수 없다.  
+addEventListener 메서드는 이를 보완한다.
+가장 많이 쓰이는 방법이다.
+```
+const btn3 = document.querySelector('#v3');
+btn3.addEventListener('click', function() {
+    alert("clicked!");
+})
+```
+
+### event bubbling
+```
+<section onclick = "alert('section clicked')">
+    <p onclick = "alert('p clicked')">
+        <button onclick = "alert('button clicked')">click me</button>
+    </p>
+</section>
+```
+위 코드는 버튼을 클릭을 하면 해당 버튼의 함수가 발동되며 버튼의 부모요소, 버튼의 부모의 부모요소 순으로 거슬러 올라가며 마치 수조에서 공기방울이 올라오듯 이벤트가 실행된다.  
+즉 의도하지 않은 이벤트를 발동시킬수 있다.  
+이는 stopPropagation() 메서드를 이용해 버블링을 막을 수 있다.
+```
+const button = document.querySelector("button");
+button.addEventListener("click", function(e){
+    e.stopPropagation();
+})
+```
+
+### event delegation
+이벤트 위임은 개별 요소에 이벤트 리스너를 생성하는 대신, 상위 요소에만 이벤트를 생성하는 기법이다.  
+메모리 사용량을 줄일 수 있으며 코드를 간결하게 구현하게 도와준다.
+```
+//html
+<body>
+    <section id = "container">
+        <section id = "container2">
+            <section id = "container3">
+                ...
+            </section>
+        </section>
+    </section>
+</body>
+```
+
+```
+//Before
+
+const container = document.querySelector("#container");
+const container2 = document.querySelector("#container2");
+const container3 = document.querySelector("#container3");
+
+container.addEventListener("click", function(){
+    console.log("container clicked");
+})
+
+containe2.addEventListener("click", function(){
+    console.log("container2 clicked");
+})
+
+container3.addEventListener("click", function(){
+    console.log("container3 clicked");
+})
+```
+
+```
+//After
+
+const container = document.querySelector("#container");
+
+container.addEventListener("click", function(e){
+    const id = e.target.id;
+    console.log(`${id} clicked`);
+})
+```
+
 ***
 ## References
 https://www.udemy.com/course/the-web-developer-bootcamp/  
