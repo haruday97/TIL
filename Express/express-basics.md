@@ -59,11 +59,23 @@ app.get('/dogs/:dogId', (req, res) => res.send('req.params'));
 대표적인 템플릿 엔진으로 `Jade`,`Pug`,`EJS`툴이 있다.
 
 ## RESTful Route
+`REST`는 REpresentational State Transfer의 약자로 서버와 클라이언트 간의 통신 방식을 정의한 아키텍처 스타일<sup id ="note_1">[1](#footnote_1)</sup>이다.
+`RESTful`은 REST의 원리를 따르는 시스템이다.  
 
+### REST API 설계 기본 규칙
+<ol>
+    <li>슬래시(/)는 계층 관계를 나타내는데 사용한다.</li>
+    <li>URI 마지막 문자로 슬래시(/)를 포함하지 않는다.</li>
+    <li>불가피하게 긴 URI경로를 사용한다면 하이픈(-)을 사용해 가독성을 높인다.</li>
+    <li>언더바(_)는 URI에 사용하지 않는다.</li>
+    <li>소문자를 사용하고 대문자 사용을 지양한다.</li>
+    <li>파일 확장자는 URI에 포함하지 않는다.</li>
+    <li>복수형을 사용한다.</li>
 
-*** 
+</ol>
 
-<sup><a id="footnote_1">[1](#note_1)</a></sup> Don't Repeat Yourself, 반복을 최소화하라는 의미이다.  
+***
+<sup><a id="footnote_1">[1](#note_1)</a></sup>서비스의 구조 및 동작원리를 정의한 설계
 ## References
 https://compmath.korea.ac.kr/nodejs/Node_Express.html  
 https://hannut91.github.io/blogs/express/06.routing  
