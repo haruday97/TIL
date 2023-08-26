@@ -5,19 +5,20 @@
 Daily-Coding-Problems는 Readme에서 확인이 불가합니다.
 
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [DB-Basics](DB/db-basics.md) - Fri Aug 25 19:47:25 2023 +0900
 - [Complexity](Algorithm/big-o.md) - Tue Aug 22 13:41:49 2023 +0900
-- [EJS](Express/ejs.md) - Tue Aug 22 13:41:49 2023 +0900
 
 ### Categories
 
 - [Algorithm](#Algorithm)
 - [Css](#Css)
+- [DB](#DB)
 - [Express](#Express)
 - [Html](#Html)
 - [JavaScript](#JavaScript)
@@ -31,6 +32,9 @@ _16 TILs and counting..._
 ### [Css](#Css)
 - [Css-Basics](Css/css-basics.md)
 - [Flexbox](Css/flexbox.md)
+
+### [DB](#DB)
+- [DB-Basics](DB/db-basics.md)
 
 ### [Express](#Express)
 - [EJS](Express/ejs.md)
