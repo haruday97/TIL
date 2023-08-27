@@ -5,7 +5,7 @@
 Daily-Coding-Problems는 Readme에서 확인이 불가합니다.
 
 
-_17 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -23,7 +23,6 @@ _17 TILs and counting..._
 - [Html](#Html)
 - [JavaScript](#JavaScript)
 - [NodeJS](#NodeJS)
-- [Template](#Template)
 - [Terminal](#Terminal)
 
 ### [Algorithm](#Algorithm)
@@ -54,9 +53,6 @@ _17 TILs and counting..._
 
 ### [NodeJS](#NodeJS)
 - [Node.js-Basics](NodeJS/nodejs-basics.md)
-
-### [Template](#Template)
-- [Name](Privacy/template.md)
 
 ### [Terminal](#Terminal)
 - [Terminal-Basics](Terminal/terminal-basics.md)
