@@ -56,7 +56,7 @@ _17 TILs and counting..._
 - [Node.js-Basics](NodeJS/nodejs-basics.md)
 
 ### [Template](#Template)
-- [Name](Template/template.md)
+- [Name](Privacy/template.md)
 
 ### [Terminal](#Terminal)
 - [Terminal-Basics](Terminal/terminal-basics.md)
