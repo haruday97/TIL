@@ -4,14 +4,14 @@
 그날 배운 것들을 기록합니다.
 
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [State](React/state.md) - Sun Sep 17 22:07:31 2023 +0900
 - [DB-Basics](DB/db-basics.md) - Fri Aug 25 19:47:25 2023 +0900
-- [Complexity](Algorithm/big-o.md) - Tue Aug 22 13:41:49 2023 +0900
 
 ### Categories
 
@@ -56,6 +56,7 @@ _17 TILs and counting..._
 
 ### [React](#React)
 - [React Basics](React/react-basics.md)
+- [State](React/state.md)
 
 ### [Terminal](#Terminal)
 - [Terminal-Basics](Terminal/terminal-basics.md)
