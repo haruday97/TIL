@@ -7,8 +7,7 @@ let colors = ['red','blue','green'];
 let nums = [12,54,32,42,23];
 let stuffs = [true, 68, undefined, null, false, 'cat', [1,2,3]];
 ```
-다른 프로그래밍 언어에서는 기본적으로 배열은 하나의 타입으로만 구성이되는 반면 JS에서는 그렇지않다.  
-test
+다른 프로그래밍 언어에서는 기본적으로 배열은 하나의 타입으로만 구성이되는 반면 JS에서는 그렇지않다.
 ## Accessing
 
 ### Push
